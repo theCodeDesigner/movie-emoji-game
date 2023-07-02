@@ -1,62 +1,81 @@
 [
   {
+    "id": 1,
     "Emojies": "👨🧸🍺🐻",
     "Title": "Ted",
     "Genre": ["comedy", "fantasy"],
-    "release": 2012
+    "release": 2012,
+    "Director": "Seth MacFarlane"
   },
   {
+    "id": 2,
     "Emojies": "🤫🐑🐑🐑",
     "Title": "The Silence of the Lambs",
     "Genre": ["horror", "thriller"],
     "release": 1991
   },
   {
+    "id": 3,
     "Emojies": "🛖🌲🌲🌲🌲🌳🌳",
     "Title": "The Cabin in the Woods",
     "Genre": ["horror","thriller"],
-    "Release": "2011 "
+    "Release": 2011, 
+    "Director" : "Drew Goddard"
   },
   {
-    "Emojies": "🧒",
-    "Title": "",
-    "Genre": "",
-    "Release": ""
+    "id": 4,
+    "Emojies": "🧒👴🚗🕛",
+    "Title": "Back to the Future",
+    "Genre": ["Adventure","Science Fiction","Comedy"],
+    "Release": 1985,
+    "Director":"Robert Zemeckis"
   },
   {
+    "id": 5 ,
+    "Emojies": "👨🏻😡💢💪🏻🟢",
+    "Title": "The Incredible Hulk",
+    "Genre": ["Science Fiction","Action","Adventure"],
+    "Release": 2008,
+    "Director": "Zak Penn"
+  },
+  {
+    "id": 6,
+    "Emojies": "❓☎️🚫👻😱",
+    "Title": "Ghostbusters",
+    "Genre": [],
+    "Release": 1984, 
+    "Director": "Ivan Reitman"
+  },
+  {
+    "id": 7,
+    "Emojies": "✈️😵‍💫🤵🏻‍♂️✈️🤥",
+    "Title": "Catch Me If You Can",
+    "Genre": ["Drama","Crime"],
+    "Release": 2002 ,
+    "Director": "Stephen Spielberg"
+  },
+  {
+    "id": 8,
+    "Emojies": "👨🏻👨🏾⚫👽",
+    "Title": "Man in Black",
+    "Genre": [],
+    "Release": 0,
+    "Director":""
+  },
+  {
+    "id": 9,
     "Emojies": "",
     "Title": "",
-    "Genre": "",
-    "Release": ""
+    "Genre": [],
+    "Release": 0,
+    "Director": ""
   },
   {
+    "id": 10,
     "Emojies": "",
     "Title": "",
-    "Genre": "",
-    "Release": ""
-  },
-  {
-    "Emojies": "",
-    "Title": "",
-    "Genre": "",
-    "Release": ""
-  },
-  {
-    "Emojies": "",
-    "Title": "",
-    "Genre": "",
-    "Release": ""
-  },
-  {
-    "Emojies": "",
-    "Title": "",
-    "Genre": "",
-    "Release": ""
-  },
-  {
-    "Emojies": "",
-    "Title": "",
-    "Genre": "",
-    "Release": ""
+    "Genre": [],
+    "Release": 0,
+    "Director": ""
   }
 ]
