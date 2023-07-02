@@ -1,0 +1,62 @@
+[
+  {
+    "Emojies": "👨🧸🍺🐻",
+    "Title": "Ted",
+    "Genre": ["comedy", "fantasy"],
+    "release": 2012
+  },
+  {
+    "Emojies": "🤫🐑🐑🐑",
+    "Title": "The Silence of the Lambs",
+    "Genre": ["horror", "thriller"],
+    "release": 1991
+  },
+  {
+    "Emojies": "🛖🌲🌲🌲🌲🌳🌳",
+    "Title": "The Cabin in the Woods",
+    "Genre": ["horror","thriller"],
+    "Release": "2011 "
+  },
+  {
+    "Emojies": "🧒",
+    "Title": "",
+    "Genre": "",
+    "Release": ""
+  },
+  {
+    "Emojies": "",
+    "Title": "",
+    "Genre": "",
+    "Release": ""
+  },
+  {
+    "Emojies": "",
+    "Title": "",
+    "Genre": "",
+    "Release": ""
+  },
+  {
+    "Emojies": "",
+    "Title": "",
+    "Genre": "",
+    "Release": ""
+  },
+  {
+    "Emojies": "",
+    "Title": "",
+    "Genre": "",
+    "Release": ""
+  },
+  {
+    "Emojies": "",
+    "Title": "",
+    "Genre": "",
+    "Release": ""
+  },
+  {
+    "Emojies": "",
+    "Title": "",
+    "Genre": "",
+    "Release": ""
+  }
+]
