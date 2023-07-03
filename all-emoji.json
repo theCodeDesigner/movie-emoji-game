@@ -240,6 +240,174 @@
   },
   {
     "id": 31,
+    "Emojies": "🚀💁🏼‍♀️🌎",
+    "Title": "Gravity",
+    "Genre": ["Drama","Sci-Fi","Thriller"],
+    "Release": 2013,
+    "Director": "Alfonso Cuarón"
+  },
+  {
+    "id": 32,
+    "Emojies": "🐼🍜👊🏼",
+    "Title": "Kung Fu Panda",
+    "Genre": ["Animation","Action","Adventure"],
+    "Release": 2008,
+    "Director": "Mark Osborne"
+  },
+  {
+    "id": 33,
+    "Emojies": "🤵🏻‍♂️🍷🔫",
+    "Title": "Skyfall",
+    "Genre": ["Action","Adventure","Thriller"],
+    "Release": 2012,
+    "Director": "Sam Mendes"
+  },
+  {
+    "id": 34,
+    "Emojies": "👦🏻⚡🪄",
+    "Title": "Harry Potter",
+    "Genre": ["Adventure","Family","Fantasy"],
+    "Release": 2001,
+    "Director": "Chris Colombus"
+  },
+  {
+    "id": 35,
+    "Emojies": "👑👸🏻📒",
+    "Title": "The Princess Diaries",
+    "Genre": ["Comedy","Family","Romance"],
+    "Release": 2001,
+    "Director": "Garry Marshall"
+  },
+  {
+    "id": 36,
+    "Emojies": "🏥👩🏻‍🤝‍👩🏻⛏️🚪🛗🩸",
+    "Title": "The Shining",
+    "Genre": ["Drama","Horror"],
+    "Release": 1980,
+    "Director": "Stanley Kubrick"
+  },
+  {
+    "id": 37,
+    "Emojies": "👱🏻‍♀️🧛🏻🐺",
+    "Title": "Twilight",
+    "Genre": ["Drama","Fantasy","Romance"],
+    "Release": 2008,
+    "Director": "Catherine Hardwicke"
+  },
+  {
+    "id": 38,
+    "Emojies": "❄️🚢👩🏻‍❤️‍💋‍🧑🏻🚪",
+    "Title": "Titanic",
+    "Genre": ["Drama","Romance"],
+    "Release": 1997,
+    "Director": "James Cameron"
+  },
+  {
+    "id": 39,
+    "Emojies": "🦪⚓",
+    "Title": "Pearl Harbor",
+    "Genre": ["Action","Drama","History"],
+    "Release": 2001,
+    "Director": "Michael Bay"
+  },
+  {
+    "id": 40,
+    "Emojies": "🤴🏻💬🎙️",
+    "Title": "The King's Speech",
+    "Genre": ["Biography","Drama","History"],
+    "Release": 20100,
+    "Director": "Tom Hooper"
+  },
+  {
+    "id": 41,
+    "Emojies": "👩🏻🐇🍄🎩🐛",
+    "Title": "Alice in Wonderland",
+    "Genre": ["Adventure","Family","Fantasy"],
+    "Release": 2010,
+    "Director": "Tim Burton"
+  },
+  {
+    "id": 42,
+    "Emojies": "👩🏻🛁🦢⚫ ",
+    "Title": "Black Swan",
+    "Genre": ["Drama","Thriller"],
+    "Release": 2010,
+    "Director": "Darren Aronofsky"
+  },
+  {
+    "id": 43,
+    "Emojies": "🐀👨🏻‍🍳🍜",
+    "Title": "Ratatouille",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 2007,
+    "Director": "Brad Bird"
+  },
+  {
+    "id": 44,
+    "Emojies": "📞💀🔪",
+    "Title": "Scream",
+    "Genre": ["Horror","Mystery"],
+    "Release": 1996,
+    "Director": "Wes Craven"
+  },
+  {
+    "id": 45,
+    "Emojies": "🐍🐅📖",
+    "Title": "The Jungle Book",
+    "Genre": ["Adventure","Drama","Family"],
+    "Release": 2016,
+    "Director": "Jon Favreau"
+  },
+  {
+    "id": 46,
+    "Emojies": "🩸💎",
+    "Title": "Blood Diamond",
+    "Genre": ["Adventure","Drama","Thriller"],
+    "Release": 2006,
+    "Director": "Edward Zwick"
+  },
+  {
+    "id": 47,
+    "Emojies": "🌴🗺️❌🏴‍☠️💰",
+    "Title": "Pirates of the Caribbean",
+    "Genre": ["Action","Adventure","Fantasy"],
+    "Release": 2003,
+    "Director": "Gore Verbinski"
+  },
+  {
+    "id": 48,
+    "Emojies": "🦇👨🏻🤡",
+    "Title": "Batman",
+    "Genre": ["Action","Adventure"],
+    "Release": 1989,
+    "Director": "Tim Burton"
+  },
+  {
+    "id": 49,
+    "Emojies": "🏃🏻‍♂️🌳🌲🏃🏻‍♂️👟",
+    "Title": "Forrest Gump",
+    "Genre": ["Drama","Romance"],
+    "Release": 1994,
+    "Director": "Robert Zemeckies"
+  },
+  {
+    "id": 49,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 50,
+    "Emojies": "🧒🏻🎈👴🏻🏠",
+    "Title": "Up",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 2009,
+    "Director": "Peter Docter"
+  },
+  {
+    "id": 51,
     "Emojies": "",
     "Title": "",
     "Genre": [""],
