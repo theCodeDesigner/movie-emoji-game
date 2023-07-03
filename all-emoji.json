@@ -376,7 +376,7 @@
   },
   {
     "id": 48,
-    "Emojies": "🦇👨🏻🤡",
+    "Emojies": "🦇👨🏻🃏",
     "Title": "Batman",
     "Genre": ["Action","Adventure"],
     "Release": 1989,
@@ -408,6 +408,86 @@
   },
   {
     "id": 51,
+    "Emojies": "🖊️📖👩🏻‍❤️‍💋‍🧑🏻",
+    "Title": "The Notebook",
+    "Genre": ["Drama","Romance"],
+    "Release": 2004,
+    "Director": "Nick Cassavetes"
+  },
+  {
+    "id": 52,
+    "Emojies": "🍳☕🍩♣️",
+    "Title": "The Breakfast Club",
+    "Genre": ["Comedy","Drama"],
+    "Release": 1985,
+    "Director": "John Hughes"
+  },
+  {
+    "id": 53,
+    "Emojies": "🔎🐟",
+    "Title": "Finding Nemo",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 2003,
+    "Director": "Andrew Stanton"
+  },
+  {
+    "id": 54,
+    "Emojies": "👂🏻👃🏻🖐🏻👅👀6️⃣",
+    "Title": "The Sixth Sense",
+    "Genre": ["Drama","Mystery","Thriller"],
+    "Release": 1999,
+    "Director": "M. Night Shyamalan"
+  },
+  {
+    "id": 55,
+    "Emojies": "👱🏻‍♀️🏹👸🏻🧁🐻🤴🏻",
+    "Title": "Brave",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 2012,
+    "Director": "Mark Andrews"
+  },
+  {
+    "id": 56,
+    "Emojies": "🦓🦁🦛📦🚢🐧",
+    "Title": "Madagascar",
+    "Genre": ["Animation","Action","Adventure"],
+    "Release": 2014,
+    "Director": "Eric Darnell"
+  },
+  {
+    "id": 57,
+    "Emojies": "👩🏻‍🤝‍👩🏻🎥👻",
+    "Title": "Paranormal Activity",
+    "Genre": ["Horror","Mystery"],
+    "Release": 2007,
+    "Director": "Oren Peli"
+  },
+  {
+    "id": 58,
+    "Emojies": "🧔🏻👩🏻👦🏻👧🏻🖐🏻",
+    "Title": "The Addams Family",
+    "Genre": ["Comedy","Fantasy"],
+    "Release": 1991,
+    "Director": "Barry Sonnenfeld"
+  },
+  {
+    "id": 59,
+    "Emojies": "👨🏾🔴💊🔵👨🏻🕶️",
+    "Title": "The Matrix",
+    "Genre": ["Action","Sci-Fi"],
+    "Release": 1999,
+    "Director": "Lana Wachowski"
+  },
+  {
+    "id": 60,
+    "Emojies": "🤴🏻🐯🧞‍♂️👸🏻🕍",
+    "Title": "Aladdin",
+    "Genre": ["Adventure","Comedy","Family"],
+    "Release": 2019,
+    "Director": "Guy Ritchie"
+  },
+  {
+    "id": 61,
     "Emojies": "",
     "Title": "",
     "Genre": [""],
