@@ -488,6 +488,14 @@
   },
   {
     "id": 61,
+    "Emojies": "💛🍌👖👓",
+    "Title": "Minions",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 2015,
+    "Director": "Kyle Balda"
+  },
+{
+    "id": 61,
     "Emojies": "",
     "Title": "",
     "Genre": [""],
