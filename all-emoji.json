@@ -568,43 +568,43 @@
   },
   {
     "id": 71,
-    "Emojies": "",
-    "Title": "",
-    "Genre": [""],
-    "Release": 0,
-    "Director": ""
+    "Emojies": "👦🏻💀🎸",
+    "Title": "Coco",
+    "Genre": ["Animation","Adventure","Drama"],
+    "Release": 2017,
+    "Director": "Lee Unkrich"
   },
   {
     "id": 72,
-    "Emojies": "",
-    "Title": "",
-    "Genre": [""],
-    "Release": 0,
-    "Director": ""
+    "Emojies": "👨🏼‍🦱💪🏻🦄",
+    "Title": "Hercules",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 1997,
+    "Director": "Ron Clements"
   },
   {
     "id": 73,
-    "Emojies": "",
-    "Title": "",
-    "Genre": [""],
-    "Release": 0,
-    "Director": ""
+    "Emojies": "1️⃣0️⃣1️⃣🐶",
+    "Title": "101 Dalmatians ",
+    "Genre": ["Adventure","Comedy","Crime"],
+    "Release": 1996,
+    "Director": "Stephen Herek"
   },
   {
     "id": 74,
-    "Emojies": "",
-    "Title": "",
-    "Genre": [""],
-    "Release": 0,
-    "Director": ""
+    "Emojies": "🥋🧒🏻",
+    "Title": "The Karate Kid",
+    "Genre": ["Action","Drama","Family"],
+    "Release": 2010,
+    "Director": "Harald Zwart"
   },
   {
     "id": 75,
-    "Emojies": "",
-    "Title": "",
-    "Genre": [""],
-    "Release": 0,
-    "Director": ""
+    "Emojies": "🐶🐶❤️🍝",
+    "Title": "Lady and the Tramp",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 1955,
+    "Director": "Clyde Geronimi"
   },
   {
     "id": 76,
@@ -638,7 +638,4 @@
     "Release": 0,
     "Director": ""
   }
-
 ]
-
-
