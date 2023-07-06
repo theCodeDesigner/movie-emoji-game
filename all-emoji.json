@@ -496,28 +496,149 @@
   },
 {
     "id": 62,
-    "Emojies": "",
-    "Title": "",
-    "Genre": [""],
-    "Release": 0,
-    "Director": ""
+    "Emojies": "🦁👑",
+    "Title": "The Lion King",
+    "Genre": ["Animation","Adventure","Drama"],
+    "Release": 2019,
+    "Director": "Jon Favreau"
   },
 {
     "id": 63,
-    "Emojies": "",
-    "Title": "",
-    "Genre": [""],
-    "Release": 0,
-    "Director": ""
+    "Emojies": "🕷️🙍🏻‍♂️",
+    "Title": "The Spiderman",
+    "Genre": ["Action","Adventure","Sci-Fi"],
+    "Release": 2002,
+    "Director": "Sam Raimi"
   },
 {
     "id": 64,
+    "Emojies": "👑🦍",
+    "Title": "King Kong",
+    "Genre": ["Action","Adventure","Romance"],
+    "Release": 2005,
+    "Director": "Peter Jackson"
+  },
+  {
+    "id": 65,
+    "Emojies": "❄️⚪️",
+    "Title": "Snow White",
+    "Genre": ["Animation","Drama","Family"],
+    "Release": 1937,
+    "Director": "David Hand"
+  },
+  {
+    "id": 66,
+    "Emojies": "🧸👨🏻‍🚀🤠🥔",
+    "Title": "Toy Story",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 1995,
+    "Director": "John Lasseter"
+  },
+  {
+    "id": 67,
+    "Emojies": "🙍🏽‍♂️🎹🐈",
+    "Title": "Soul",
+    "Genre": ["Animation","Family","Adventure"],
+    "Release": 2020,
+    "Director": "Peter Docter"
+  },
+  {
+    "id": 68,
+    "Emojies": "👍🦕",
+    "Title": "The Good Dinosaur",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 2015,
+    "Director": "Peter Sohn"
+  },
+  {
+    "id": 69,
+    "Emojies": "🐢🐀🥷",
+    "Title": "Teenage Mutant Ninja Turtles",
+    "Genre": ["Action","Adventure","Comedy"],
+    "Release": 1990,
+    "Director": "Steve Barron"
+  },
+  {
+    "id": 70,
+    "Emojies": "🚗🚗🚗",
+    "Title": "Cars",
+    "Genre": ["Animation","Adventure","Comedy"],
+    "Release": 2006,
+    "Director": "John Lasseter"
+  },
+  {
+    "id": 71,
     "Emojies": "",
     "Title": "",
     "Genre": [""],
     "Release": 0,
     "Director": ""
   },
-
+  {
+    "id": 72,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 73,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 74,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 75,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 76,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 77,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 78,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  },
+  {
+    "id": 79,
+    "Emojies": "",
+    "Title": "",
+    "Genre": [""],
+    "Release": 0,
+    "Director": ""
+  }
 
 ]
+
+
